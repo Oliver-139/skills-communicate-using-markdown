@@ -4,5 +4,8 @@ Created a h1 header using a hash. Edited the file. Nice.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn pn GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
